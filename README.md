@@ -1,0 +1,2 @@
+# ChronosSync
+ChronosSync ist eine einfache, konsolenbasierte Java-Anwendung, die es Benutzern ermöglicht, wichtige zukünftige oder vergangene Ereignisse zu verfolgen. Das Hauptaugenmerk dieses Projekts liegt auf der robusten Nutzung der modernen java.time API, um Zeitpunkte präzise zu speichern, Differenzen zu berechnen und benutzerfreundlich darzustellen. Es dient als praktische Übung, um ein tiefes Verständnis für Konzepte wie Datums- und Zeitpunkte, Zeitintervalle und die Formatierung zu entwickeln.
