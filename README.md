@@ -26,8 +26,8 @@ To run ChronosSync, follow these steps:
 
 2.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/boeani05/chronosyncapp.git
-    cd chronosyncapp
+    git clone https://github.com/boeani05/ChronosSync.git
+    cd ChronosSync/src
     ```
 
 3.  **Compile the Application:**
